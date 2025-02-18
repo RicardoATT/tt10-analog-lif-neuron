@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple LIF neuron optimized from the neuron model proposed by Shamsi.
 
 ## How to test
 
-Explain how to use your project
+Set the digital input and vary the voltage of the analog input (pin 0) to modify the frequency of the pulses of analog output. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An oscilloscope to see the output voltage on analog pin 1.
